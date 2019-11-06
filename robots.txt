@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /images/*
+Sitemap: http://54.241.152.113/sitemap.xml.gz

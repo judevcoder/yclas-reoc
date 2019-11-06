@@ -1,0 +1,8 @@
+60
+a:1:{i:0;a:10:{s:10:"id_content";s:1:"8";s:6:"locale";s:5:"en_UK";s:5:"order";s:1:"0";s:5:"title";s:52:"Advertisement `[AD.NAME]` is created on [SITE.NAME]!";s:8:"seotitle";s:14:"ads-user-check";s:11:"description";s:237:"Hello [USER.NAME],
+
+ Advertisement is created under your account [USER.NAME]! You can visit this link to see advertisement [URL.AD]
+
+ If you are not responsible for creating this advertisement, click a link to contact us [URL.CONTACT].
+
+";s:10:"from_email";s:20:"luciorega3@gmail.com";s:7:"created";s:19:"2019-11-06 00:23:48";s:4:"type";s:5:"email";s:6:"status";s:1:"1";}}
